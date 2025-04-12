@@ -1,0 +1,6 @@
+# meson stuff
+build/
+builddir/
+.cache/
+# bear -- make output
+compile_commands.json
